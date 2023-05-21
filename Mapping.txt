@@ -1,0 +1,45 @@
+Happy - Feel-Good, Funny, Romantic, Heart-warming, Inspiring
+Sad - Uplifting, Emotional, Heart-warming
+Angry - Thrilling, Intense, Challenging
+Disgusted - Dark, Weird
+Fearful - Thrilling, Intense, Mind-blowing
+Surprise - Mind-blowing, Weird, Thought-provoking
+Neutral - Easy, Instructive, Inspiring, Smart
+
+Happy - Feel-Good, Funny, Romantic, Heart-warming, Inspiring:
+
+Feel-Good: This genre aims to evoke positive emotions, uplift the mood, and provide a sense of happiness and joy.
+Funny: Comedic movies are known to elicit laughter and bring about a light-hearted and cheerful atmosphere.
+Romantic: Romance films often portray heartwarming relationships and can evoke feelings of happiness and warmth.
+Heart-warming: This genre focuses on stories that touch the audience's hearts and evoke a sense of emotional connection and positivity.
+Inspiring: Movies that showcase inspiring stories or characters can uplift the viewer's spirits and evoke feelings of happiness and motivation.
+Sad - Uplifting, Emotional, Heart-warming:
+
+Uplifting: These genres include movies with hopeful and positive messages, which can help counteract sadness and provide a sense of encouragement.
+Emotional: Emotional movies can help individuals process their own emotions and provide a cathartic experience, allowing them to connect and empathize with the characters.
+Heart-warming: Heartwarming movies can bring about a mix of emotions, including sadness and warmth, offering a sense of emotional release and comfort.
+Angry - Thrilling, Intense, Challenging:
+
+Thrilling: Thriller genres can help channel anger and frustration into an intense and captivating experience, allowing individuals to engage with the narrative and redirect their emotions.
+Intense: Intense movies with gripping storylines and high stakes can serve as a distraction and outlet for anger, immersing the viewer in a powerful and absorbing narrative.
+Challenging: Movies that challenge the viewer intellectually or emotionally can redirect anger towards critical thinking or introspection, potentially providing a cathartic effect.
+Disgusted - Dark, Weird:
+
+Dark: Dark movies explore themes that are often unsettling, and they can resonate with feelings of disgust by delving into the disturbing aspects of human nature or society.
+Weird: Movies categorized as weird or surreal can evoke a sense of unease and intrigue, appealing to individuals seeking unconventional experiences.
+Fearful - Thrilling, Intense, Mind-blowing:
+
+Thrilling: Thriller genres that induce suspense and anticipation can satisfy the viewer's desire for excitement and thrill while diverting attention from fear.
+Intense: Intense movies can capture and maintain the viewer's attention, creating a heightened sense of engagement that can distract from fear.
+Mind-blowing: Movies that present mind-bending concepts or unexpected plot twists can captivate the audience's attention, redirecting their focus away from fear.
+Surprise - Mind-blowing, Weird, Thought-provoking:
+
+Mind-blowing: Movies that offer surprising and unexpected elements can provoke a sense of wonder and fascination, keeping the viewer engaged and entertained.
+Weird: Weird or unconventional movies can provide a sense of novelty and surprise, offering a unique viewing experience that challenges expectations.
+Thought-provoking: Thought-provoking movies can stimulate intellectual curiosity and inspire deeper contemplation, creating an element of surprise through their profound themes or narratives.
+Neutral - Easy, Instructive, Inspiring, Smart:
+
+Easy: Easy-to-watch movies with light-hearted themes can provide relaxation and entertainment without triggering strong emotional responses.
+Instructive: Movies that offer educational or informative content can engage the viewer's mind and provide a neutral, learning-oriented experience.
+Inspiring: Inspirational movies can motivate and uplift the viewer, providing a positive and emotionally neutral viewing experience.
+Smart: Smart or intellectually stimulating movies can engage the viewer
