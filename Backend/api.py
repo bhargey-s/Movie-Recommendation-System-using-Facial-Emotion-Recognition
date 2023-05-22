@@ -31,10 +31,12 @@ def getprediction():
 @app.post('/predict')
 def detectEmotion(data: ImageData):
     image = data.image
-    prediction = model.analyze(image)
-    print(prediction[0])
 
-    return {'emotion': prediction}
+    try:
+        prediction = model.analyze(image)
+        return {'emotion': prediction}
+    except:
+        return ({'emotion': {}})
 
 
 if __name__ == "__main__":
