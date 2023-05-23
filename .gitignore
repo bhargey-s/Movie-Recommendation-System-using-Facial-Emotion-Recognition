@@ -1,2 +1,5 @@
-*.jpg
 Models/Facial Emotion Detection/Dataset
+Models/Facial Emotion Detection/Dataset 2
+*.venv
+*.DS_STORE
+__pycache__

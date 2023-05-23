@@ -1,0 +1,113 @@
+.index {
+  height: 100vh;
+  width: 100vw;
+  padding: 5vh 20vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  border: rgb(35, 35, 35) 8px solid;
+}
+
+.index-background {
+  width: 100vw;
+  height: 100vh;
+  background-image:
+    linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(./../../assets/Icons/index-background.jpeg);
+  position: absolute;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  object-fit: contain;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  object-fit: cover;
+}
+
+.index-background::after {
+  position: absolute;
+  content: "";
+  height: 15%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: linear-gradient(black 0%, transparent 100%);
+}
+
+.index-background::before {
+  position: absolute;
+  content: "";
+  height: 15%;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(transparent 0%, black 100%);
+}
+
+.index-intro h1 {
+  font-family: 'Netflix Sans Medium';
+  font-size: 50px;
+  line-height: 55px;
+  font-weight: bolder;
+  margin-bottom: 5vh;
+}
+
+.index-intro p {
+  font-size: 25px;
+  margin-bottom: 5vh;
+}
+
+.index-form {
+  width: 30vw;
+  height: 35vh;
+  padding: 2vw;
+  background-color: rgba(0, 0, 0, .7);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.index-form div {
+  width: 100%;
+  height: 25%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 4vh;
+}
+
+.index-form div label {
+  width: 5vw;
+  display: flex;
+  justify-content: center;
+}
+
+.index-form div input {
+  height: 50%;
+  font-size: 16px;
+  font-weight: 400;
+  color: #8c8c8c;
+  background-color: #333333;
+  border: none;
+  border-radius: 5px;
+  padding: 3vh 1vw;
+  margin-left: 2vw;
+}
+
+.index-form div button {
+  width: 100%;
+  height: 7vh;
+  color: #fff;
+  background-color: #E50914;
+  border: none;
+  padding: 2.5vh 2vw;
+  border-radius: 5px;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  font-family: 'Helvetica';
+  margin-bottom: 2vh;
+  cursor: pointer;
+}

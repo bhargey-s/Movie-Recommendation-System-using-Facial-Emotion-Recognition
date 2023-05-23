@@ -1,0 +1,70 @@
+.input {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background: #000;
+}
+
+.input-card {
+    width: 50vw;
+    height: 50vh;
+    background-color: rgba(211, 211, 211, .3);
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 7vh 5vw;
+}
+
+.icons {
+    width: 35%;
+    height: 25%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    /* border: #fff 2px solid; */
+}
+
+.icons img {
+    height: 100%;
+    cursor: pointer;
+}
+
+.separation {
+    height: 100%;
+    border: #fff 1px solid;
+}
+
+.modal {
+    width: 70vw;
+    height: 100vh;
+    padding: 5vh 5vw;
+    margin: 0 auto;
+    background-color: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modal-header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5vh;
+}
+
+.modal-header button {
+    border: #fff solid 1px;
+    background: #000;
+}
+
+.modal-footer button {
+    margin-top: 5vh;
+    background-color: #E50914;
+}

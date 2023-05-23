@@ -6,6 +6,8 @@
 6. Surprise
 7. Neutral
 
+
+// Future Enhancement
 8. Thrilled
 9. Thoughtful
 10. Curious

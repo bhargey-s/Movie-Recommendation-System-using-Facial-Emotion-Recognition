@@ -18,3 +18,21 @@
 18. Without plot
 19. Slow
 20. Smart
+
+1.Feel-Good
+2.Funny
+3.Romantic
+4.Heart-warming
+5.Inspiring
+6.Uplifting
+7.Emotional
+8.Thrilling
+9.Intense
+10.Challenging
+11.Dark
+12.Weird
+13.Mind-blowing
+14.Thought-provoking
+15.Easy
+16.Instructive
+17.Smart
