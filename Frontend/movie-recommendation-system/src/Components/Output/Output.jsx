@@ -1,7 +1,7 @@
 import { React, useState, useRef, useEffect, Fragment } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import Row from './Row';
-import Mapping from './Mapping';
+import Mapping from '../../Constants/Mapping';
 import axios from 'axios';
 import "./output-stylesheet.css"
 
@@ -15,7 +15,7 @@ function Output() {
   const [genres, setGenres] = useState([]);
 
   useEffect(() => {
-    setGenres(Mapping[predictedEmotion]);
+    setGenres(Mapping[predictedEmotion] || []);
   }, [])
   // <nav>
   //   <h1 style={{ color: "red", fontFamily: 'Netflix Sans Bold' }}>MovieSense</h1>

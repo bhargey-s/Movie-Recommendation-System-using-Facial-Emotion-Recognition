@@ -1,15 +1,16 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios'
 import RowPoster from './RowPoster'
-import GenreObj from './GenreObj';
+import updatedGenreObj from '../../Utilities/FetchMovieDetails';
 
 function Row({ title, description }) {
     const [movies, setMovies] = useState([]);
     let detailsObj = {};
 
     useEffect(() => {
-        console.log(title, GenreObj[title])
-        setMovies(GenreObj[title])
+        console.log(updatedGenreObj)
+        // console.log(title, genreObj[title])
+        setMovies(genreObj[title])
     }, [])
 
     return (
